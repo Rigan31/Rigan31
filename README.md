@@ -14,19 +14,17 @@
 <p align="center">
   Hi, I'm Md.Mahedi Hasan Rigan and I am a fourth year student of Computer Science and Engineering at <a href="https://www.buet.ac.bd/" title="BUET">Bangladesh University of Engineering and Technology</a>. I am a passionate learner who's always willing to learn and work across technologies and domains.
   <br>
-  👨🏻‍💻  Most of my projects are available on <a href="https://github.com/Rigan31" title="Github">Github</a>
   <br>
-  🌱 I’m currently learning Machine Learning and Web Development
   <br>
-  🎓 I graduated from Notre Dame College, Dhaka
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  👯 In my free time, I love to watch movies, anime and play games like Valorant
-  <br>
-  💬 Ask me anything about from <a href="" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: mahedihasanrigan82@gmail.com">mahedihasanrigan82@gmail.com</a>
+  <ul>
+    <li>👨🏻‍💻  Most of my projects are available on <a href="https://github.com/Rigan31" title="Github">Github</a><br></li>
+    <li>🌱 I’m currently learning Machine Learning and Web Development<br></li>
+    <li>🎓 I graduated from Notre Dame College, Dhaka<br></li>
+    <li>💻 I love writing code and learn anythings about it<br></li>
+    <li>👯 In my free time, I love to watch movies, anime and play games like Valorant<br></li>
+    <li>💬 Ask me anything about from <a href="" title="Issues">Here</a><br></li>
+    <li>📫 How to reach me: <a href="mailto: mahedihasanrigan82@gmail.com">mahedihasanrigan82@gmail.com</a></li>
+  </ul>
 </p>
 
 <hr>
