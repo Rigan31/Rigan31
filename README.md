@@ -11,7 +11,7 @@
   <code><a href="https://codeforces.com/profile/Ganyu31" title="Codeforces Profile"><img width="22" src="images/codeforces.webp"> Codeforces</a></code>
 </h5>
 <br>
-<p align="center" style="font-size: 14px;">
+<p align="center" style="font-size: 18px;">
   Hi, I'm Md.Mahedi Hasan Rigan and I am a fourth year student of Computer Science and Engineering at <a href="https://www.buet.ac.bd/" title="BUET">Bangladesh University of Engineering and Technology</a>. I am a passionate learner who's always willing to learn and work across technologies and domains.
   <br>
   <br>
