@@ -15,15 +15,17 @@
   Hi, I'm Md.Mahedi Hasan Rigan and I am a fourth year student of Computer Science and Engineering at <a href="https://www.buet.ac.bd/" title="BUET">Bangladesh University of Engineering and Technology</a>. I am a passionate learner who's always willing to learn and work across technologies and domains.
   <br>
   <br>
+  <ul>
+    <li>👨🏻‍💻  Most of my projects are available on <a href="https://github.com/Rigan31?tab=repositories" title="Github">Github</a><br></li>
+    <li>🌱 I’m currently learning Machine Learning and Web Development<br></li>
+    <li>🎓 I graduated from Notre Dame College, Dhaka<br></li>
+    <li>💻 I love writing code and learn anythings about it<br></li>
+    <li>👯 In my free time, I love to watch movies, anime and play games like Valorant<br></li>
+    <li>📫 How to reach me: <a href="mailto: mahedihasanrigan82@gmail.com">mahedihasanrigan82@gmail.com</a></li>
+  </ul>
+  Thanks for checking out my profile! Feel free to reach out if you have any questions or would like to collaborate on a project.
 </p>
-<ul>
-  <li>👨🏻‍💻  Most of my projects are available on <a href="https://github.com/Rigan31" title="Github">Github</a><br></li>
-  <li>🌱 I’m currently learning Machine Learning and Web Development<br></li>
-  <li>🎓 I graduated from Notre Dame College, Dhaka<br></li>
-  <li>💻 I love writing code and learn anythings about it<br></li>
-  <li>👯 In my free time, I love to watch movies, anime and play games like Valorant<br></li>
-  <li>📫 How to reach me: <a href="mailto: mahedihasanrigan82@gmail.com">mahedihasanrigan82@gmail.com</a></li>
-</ul>
+
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
@@ -51,6 +53,7 @@
   <code><img title="docker" height="30" src="images/docker.webp"></code>
   <code><img title="cassandra" height="30" src="images/cassandra.png"></code>
 </p>
+<br><br>
 <ul>
   <li> <strong>Frontend:</strong> HTML, CSS, JavaScript, React, Bootstrap, Material UI, JQuery, JSON</li>
   <li> <strong>Backend:</strong> Node.js, Express.js, Django</li>
