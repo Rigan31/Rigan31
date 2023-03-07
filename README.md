@@ -11,7 +11,7 @@
   <code><a href="https://codeforces.com/profile/Ganyu31" title="Codeforces Profile"><img width="22" src="images/codeforces.webp"> Codeforces</a></code>
 </h5>
 <br>
-<p align="center" style="font-size: 18px;">
+<p align="center">
   Hi, I'm Md.Mahedi Hasan Rigan and I am a fourth year student of Computer Science and Engineering at <a href="https://www.buet.ac.bd/" title="BUET">Bangladesh University of Engineering and Technology</a>. I am a passionate learner who's always willing to learn and work across technologies and domains.
   <br>
   <br>
@@ -26,7 +26,7 @@
   
 </p>
 
-<p align="center" style="font-size: 14px;">
+<p align="center">
   Thanks for checking out my profile! Feel free to reach out if you have any questions or would like to collaborate on a project.
 </p>
 
@@ -59,7 +59,7 @@
 </p>
 <br><br>
 <ul>
-  <li> <strong>Frontend:</strong> HTML, CSS, JavaScript, React, Bootstrap, Material UI, JQuery, JSON</li>
+  <li> <strong>Frontend:</strong> HTML, CSS, JavaScript, React, Bootstrap, Material UI, TailwindCSS</li>
   <li> <strong>Backend:</strong> Node.js, Express.js, Django</li>
   <li> <strong>Database:</strong> PostgreSQL, MySQL, Oracle, Cassandra</li>
   <li> <strong>Tools:</strong> Git, GitHub, VS Code, Jupyter Notebook, Docker, Kubernetes</li>
