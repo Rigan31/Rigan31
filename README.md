@@ -51,49 +51,27 @@
   <code><img title="docker" height="30" src="images/docker.webp"></code>
   <code><img title="cassandra" height="30" src="images/cassandra.png"></code>
 </p>
-<!-- List frontend, backend, database, tools  -->
-<p>
-<h4> Frontend </h4>
-  <ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>JavaScript</li>
-    <li>React</li>
-    <li>Bootstrap</li>
-    <li>Material UI</li>
-    <li>jQuery</li>
-  </ul>
+| Category | Technologies |
+| -------- | ------------ |
+| Frontend | HTML, CSS, JavaScript, React |
+| Backend | Node.js, Express |
+| Database | MongoDB, PostgreSQL |
+| Tools | Git, VS Code, Postman |
 
-<h4> Backend </h4>
-  <ul>
-    <li>Python</li>
-    <li>Django</li>
-    <li>Node.js</li>
-    <li>Express.js</li>
-    <li>Flask</li>
-  </ul>
-
-<h4> Database </h4>
-  <ul>
-    <li>MySQL</li>
-    <li>PostgreSQL</li>
-    <li>MongoDB</li>
-    <li>Cassandra</li>
-  </ul>
-
-<h4> Tools </h4>
-  <ul>
-    <li>Git</li>
-    <li>GitHub</li>
-    <li>Visual Studio Code</li>
-    <li>Postman</li>
-    <li>Heroku</li>
-    <li>Netlify</li>
-    <li>Google Cloud</li>
-    <li>Docker</li>
-    <li>Kubernetes</li>
-  </ul>
-</p>
+<style>
+table {
+    border-collapse: collapse;
+    font-size: 16px;
+}
+td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+th {
+    background-color: #f2f2f2;
+    text-align: left;
+}
+</style>
 
 
 <hr>
