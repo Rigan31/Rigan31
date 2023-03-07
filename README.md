@@ -15,51 +15,38 @@
   Hi, I'm Md.Mahedi Hasan Rigan and I am a fourth year student of Computer Science and Engineering at <a href="https://www.buet.ac.bd/" title="BUET">Bangladesh University of Engineering and Technology</a>. I am a passionate learner who's always willing to learn and work across technologies and domains.
   <br>
   <br>
-  <br>
-  <ul>
-    <li>👨🏻‍💻  Most of my projects are available on <a href="https://github.com/Rigan31" title="Github">Github</a><br></li>
-    <li>🌱 I’m currently learning Machine Learning and Web Development<br></li>
-    <li>🎓 I graduated from Notre Dame College, Dhaka<br></li>
-    <li>💻 I love writing code and learn anythings about it<br></li>
-    <li>👯 In my free time, I love to watch movies, anime and play games like Valorant<br></li>
-    <li>💬 Ask me anything about from <a href="" title="Issues">Here</a><br></li>
-    <li>📫 How to reach me: <a href="mailto: mahedihasanrigan82@gmail.com">mahedihasanrigan82@gmail.com</a></li>
-  </ul>
 </p>
+<ul>
+  <li>👨🏻‍💻  Most of my projects are available on <a href="https://github.com/Rigan31" title="Github">Github</a><br></li>
+  <li>🌱 I’m currently learning Machine Learning and Web Development<br></li>
+  <li>🎓 I graduated from Notre Dame College, Dhaka<br></li>
+  <li>💻 I love writing code and learn anythings about it<br></li>
+  <li>👯 In my free time, I love to watch movies, anime and play games like Valorant<br></li>
+  <li>📫 How to reach me: <a href="mailto: mahedihasanrigan82@gmail.com">mahedihasanrigan82@gmail.com</a></li>
+</ul>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <code><img title="C" height="28" src="images/c.svg"></code>
+  <code><img title="C++" height="28" src="images/cpp.svg"></code>
+  <code><img title="C#" height="28" src="images/cSharp.svg"></code>
+  <code><img title="Python" height="28" src="images/python-original.svg"></code>
+  <code><img title="Django" height="28" src="images/django.png"></code>
+  <code><img title="Javascript" height="28" src="images/javascript.svg"></code>
+  <code><img title="HTML5" height="28" src="images/html5.svg"></code>
+  <code><img title="CSS" height="28" src="images/css.svg"></code>
+  <code><img title="React" height="28" src="images/react-original.svg"></code>
+  <code><img title="Git" height="28" src="images/git-original.svg"></code>
+  <code><img title="PostgreSQL" height="28" src="images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="28" src="images/vscode.png"></code>
+  <code><img title="JQuery" height="28" src="images/jquery-original.svg"></code>
+  <code><img title="Java" height="28" src="images/java-original.svg"></code>
+  <code><img title="JSON" height="28" src="images/json.svg"></code>
+  <code><img title="GitHub" height="28" src="images/github.svg"></code>
+  <code><img title="MySQL" height="28" src="images/mysql.svg"></code>
+  <code><img title="npm" height="28" src="images/npm.svg"></code>
 </p>
 <hr>
 
