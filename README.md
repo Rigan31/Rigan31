@@ -51,29 +51,12 @@
   <code><img title="docker" height="30" src="images/docker.webp"></code>
   <code><img title="cassandra" height="30" src="images/cassandra.png"></code>
 </p>
-| Category | Technologies |
-| -------- | ------------ |
-| Frontend | HTML, CSS, JavaScript, React |
-| Backend | Node.js, Express |
-| Database | MongoDB, PostgreSQL |
-| Tools | Git, VS Code, Postman |
-
-<style>
-table {
-    border-collapse: collapse;
-    font-size: 16px;
-}
-td, th {
-    border: 1px solid #ddd;
-    padding: 8px;
-}
-th {
-    background-color: #f2f2f2;
-    text-align: left;
-}
-</style>
-
-
+<ul>
+  <li> <strong>Frontend:</strong> HTML, CSS, JavaScript, React, Bootstrap, Material UI, JQuery, JSON</li>
+  <li> <strong>Backend:</strong> Node.js, Express.js, Django</li>
+  <li> <strong>Database:</strong> PostgreSQL, MySQL, Oracle, Cassandra</li>
+  <li> <strong>Tools:</strong> Git, GitHub, VS Code, Jupyter Notebook, Docker, Kubernetes</li>
+</ul>
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
